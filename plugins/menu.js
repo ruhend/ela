@@ -311,7 +311,7 @@ let tek = `✧────···[ Dashboard ]···────✧
 │⬡ Sewa Bot? :
 │     wa.me/6283122886524
 │⬡ Grup Whatsapp 👇:
-│https://chat.whatsapp.com/I20oC6Tr4DQH5CNG5utEkN
+│https://chat.whatsapp.com/CTOhMvWeBY5AnkTrJXLebt
 │⬡ Prefix : [ ${_p} ]
 │⬡ *${Object.keys(global.db.data.users).length}* Pengguna
 │⬡ *${Object.entries(global.db.data.chats).filter(chat => chat[1].isBanned).length}* Chat Terbanned
