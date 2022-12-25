@@ -16,7 +16,7 @@ let handler = async (m, { conn }) => {
 }
 handler.help = ['toimg', 'togif']
 handler.tags = ['sticker']
-handler.command = /^to(img|gif|vid|video)$/i
+handler.command = /^to(img|gif)$/i
 
 export default handler
 
